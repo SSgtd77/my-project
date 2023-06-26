@@ -1,0 +1,10 @@
+# image files
+*.png
+*.jpg
+*.gif
+
+# data files
+*.env
+
+# folders
+temp/
