@@ -1,6 +1,7 @@
 # image files
 *.png
 *.jpg
+*.jpeg
 *.gif
 
 # data files
